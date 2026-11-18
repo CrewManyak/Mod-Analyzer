@@ -3,8 +3,6 @@
 
 **Mod-Analyzer**, oyun modlarını analiz etmeye ve yapılarını daha kolay incelemeye yardımcı olan bir araçtır. Mod dosyalarını tarayarak içerik, bağımlılık ve olası sorunlar hakkında bilgi sunmayı hedefler.
 
-> Not: Bu bölümü projenizin gerçek amacına göre güncelleyin.
-
 ## Özellikler
 
 - Mod dosyalarını hızlıca analiz etme
