@@ -17,7 +17,7 @@ Minecraft screenshare için gelişmiş mod ve sistem analiz aracı.
 1. GitHub'da yeni bir **public** repo aç (örnek: `XTALE-ModAnalyzer`).
 2. Üç dosyayı da repoya yükle. `ModAnalyzer.ps1` dosyasını yüklerken kodlamasını değiştirme.
 3. Her dosyayı açıp **Raw** butonuna bas ve linki kopyala. Linkler şöyle görünür:
-   `https://raw.githubusercontent.com/KULLANICI/XTALE-ModAnalyzer/main/ModAnalyzer.ps1`
+   `[https://raw.githubusercontent.com/KULLANICI/XTALE-ModAnalyzer/main/ModAnalyzer.ps1](https://github.com/CrewManyak/Mod-Analyzer/blob/main/ModAnalyzer.ps1)`
 4. `ModAnalyzer.ps1` dosyasının en üstündeki `$Config` kısmını doldur:
    - `SignaturesUrl` → `signatures.json` dosyasının raw linki
    - `VersionUrl` → `version.txt` dosyasının raw linki
