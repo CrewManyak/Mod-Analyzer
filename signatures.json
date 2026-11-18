@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "strong": [
+    "AutoCrystal",
+    "TriggerBot"
+  ],
+  "weak": [
+    "Velocity"
+  ],
+  "processes": [
+    "ornekhileadi"
+  ],
+  "clients": {
+    "com/ornekclient/": "Örnek Client"
+  },
+  "hashes": {
+    "0000000000000000000000000000000000000000": "Örnek: buraya yakalanan hile jar'ının SHA1 hash'i yazılır"
+  }
+}
